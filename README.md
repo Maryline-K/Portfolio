@@ -1,2 +1,2 @@
 # Portfolio
-I created a sing page application for my portfolio to showcase my skills
+I created a single page application using react.js for my portfolio to showcase my skills.
