@@ -1,0 +1,34 @@
+.podcast {
+    text-align: center;
+  }
+
+  .text{
+      text-decoration: none;
+      font-weight: bolder;
+      color: aqua;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .text:hover{
+    
+      color: blueviolet;
+  }
+  
+
+  .podcast-header {
+    background-color: #00002E ;/**#282c34; */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+
+  .pod-logo {
+    height: 300px;
+    width: 300px;
+    pointer-events: none;
+    border-radius:50% ;
+  }
