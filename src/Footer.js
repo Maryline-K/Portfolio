@@ -49,7 +49,7 @@ return(
   	 			<h4>container</h4>
   	 			<ul>
   	 				<li><Link to="/">Kubernetes</Link></li>
-					   <li><Link to="/">Docker</Link></li>
+					   <li><Link to="/">Docker Pro</Link></li>
 				
   	 			</ul>
   	 		</div>
